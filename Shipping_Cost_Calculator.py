@@ -10,4 +10,5 @@ shipping_cost = weight * rate
 ## Display the result
 print(f"Shipping Cost: {shipping_cost} CAD")
 
-# Here is a new update by <fuentesjed1>
+# Here is a new update by fuentesjed1
+# Here is another update by fuentesjed1
